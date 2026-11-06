@@ -1,0 +1,37 @@
+# ========== Python ==========
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# ========== 虚拟环境 ==========
+.venv/
+venv/
+env/
+F:/anaconda_envs/
+
+# ========== IDE & 编辑器 ==========
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ========== 本地向量库 & 数据库 ==========
+chroma_db/
+*.sqlite3
+
+# ========== 日志 ==========
+logs/
+*.log
+
+# ========== 本地运行时文件 ==========
+md5.text
+
+# ========== 操作系统 ==========
+.DS_Store
+Thumbs.db
+
+# ========== Streamlit ==========
+.streamlit/secrets.toml
