@@ -159,15 +159,15 @@ streamlit run app.py
 
 ---
 
-## 📸 运行效果
+## 📸 界面预览
 
-**空状态 + 常用问题入口**
+**首页空状态** — 侧边栏会话管理 + 4 个常用问题快捷入口：
 
-![ScreenShot 1](./ScreenShot/ScreenShot_1.png)
+![首页空状态](./ScreenShot/ScreenShot_1.png)
 
-**对话诊断 + 报告生成模式**
+**预警查询对话** — Agent 调用工具查询预警数据并返回结构化摘要：
 
-![ScreenShot 2](./ScreenShot/ScreenShot_2.png)
+![预警查询对话](./ScreenShot/ScreenShot_2.png)
 
 ---
 
