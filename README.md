@@ -159,6 +159,18 @@ streamlit run app.py
 
 ---
 
+## 📸 运行效果
+
+**空状态 + 常用问题入口**
+
+![ScreenShot 1](./ScreenShot/ScreenShot_1.png)
+
+**对话诊断 + 报告生成模式**
+
+![ScreenShot 2](./ScreenShot/ScreenShot_2.png)
+
+---
+
 ## 🎯 支持的场景
 
 | 场景 | 示例提问 |
